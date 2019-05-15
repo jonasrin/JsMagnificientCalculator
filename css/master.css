@@ -1,0 +1,16 @@
+/* div{
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+} */
+input {
+  /* display: block; */
+  margin: 10px 10px 0 0;
+  width: 95%;
+}
+
+main {
+  height: 800px;
+  background-color: #dee2e6;
+  text-align: center;
+}
